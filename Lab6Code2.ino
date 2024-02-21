@@ -1,8 +1,4 @@
 
-/*
-This is a demonstration of the capabilities of Git and GitHub
-*/
-
 //the right motor will be controlled by the motor A pins on the motor driver
 const int AIN1 = 13;           //control pin 1 on the motor driver for the right motor
 const int AIN2 = 12;            //control pin 2 on the motor driver for the right motor
